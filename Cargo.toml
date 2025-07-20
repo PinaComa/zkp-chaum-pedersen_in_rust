@@ -1,0 +1,10 @@
+[package]
+name = "zkp_Chaum_Pedersen"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rand = "0.8" # For random number generation
+
+num-bigint = {version = "0.4", features = ["rand"]} # For big integer operations // rand feature is needed for random number generation
+
