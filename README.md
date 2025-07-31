@@ -1,3 +1,10 @@
+#### CERTIFICATE OF COMPLETION Zero-Knowledge Proofs in Rust
+Instructors Guido Giuntoli
+Certificate no: UC-8ec06126-a07b-44aa-9cca-c4aa2b4d3607|
+Certificate url: ude.my/UC-8ec06126-a07b-44aa-9cca-c4aa2b4d3607
+Reference Number: 0004
+
+
 # Chaum-Pedersen Zero-Knowledge Proof Authentication System
 
 A complete client-server implementation of the Chaum-Pedersen Zero-Knowledge Proof protocol in Rust, featuring gRPC communication for secure authentication without revealing passwords.
