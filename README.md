@@ -1,10 +1,7 @@
-#### CERTIFICATE OF COMPLETION Zero-Knowledge Proofs in Rust
-Instructors Guido Giuntoli
-
+#### CERTIFICATE OF COMPLETION Zero-Knowledge Proofs in Rust [^1]
+[^1]:Instructors Guido Giuntoli
 Certificate no: UC-8ec06126-a07b-44aa-9cca-c4aa2b4d3607|
-
 Certificate url: ude.my/UC-8ec06126-a07b-44aa-9cca-c4aa2b4d3607
-
 Reference Number: 0004
 
 
